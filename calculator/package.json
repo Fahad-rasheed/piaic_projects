@@ -1,0 +1,19 @@
+{
+  "name": "@fahad_rasheed/calculator",
+  "version": "1.0.1",
+  "description": "",
+  "main": "calcu.js",
+  "type": "module",
+  "bin":{"calculator":"calcu.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.6.5",
+    "inquirer": "^9.2.11"
+  }
+}
